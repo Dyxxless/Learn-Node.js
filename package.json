@@ -1,0 +1,19 @@
+{
+  "name": "dyxxless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dyxxless",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dyxxless/Learn-Node.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dyxxless/Learn-Node.js/issues"
+  },
+  "homepage": "https://github.com/Dyxxless/Learn-Node.js#readme",
+  "description": ""
+}
